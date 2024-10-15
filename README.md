@@ -1,6 +1,7 @@
 # wand
 
 Wand makes it easy to configure dash, houdini and a media server.
+Forked to be used alongside my main wand fork.
 
 ## Basic setup
 
